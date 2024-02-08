@@ -3,7 +3,7 @@
   <HandlingData>
     <Item type="CHandlingData">
       <handlingName>NKTAILGATERS</handlingName>
-     <fMass value="1340.0" />
+<fMass value="1340.0" />
 			<fInitialDragCoeff value="8.2" />
 			<fDownforceModifier value="0.0" />
 			<fPercentSubmerged value="85.0" />
@@ -11,20 +11,20 @@
 			<vecInertiaMultiplier x="1.0" y="1.4500000476837" z="1.3999999761581" />
 			<fDriveBiasFront value="0.0" />
 			<nInitialDriveGears value="6" />
-			<fInitialDriveForce value="0.321" />
+			<fInitialDriveForce value="0.32" />
 			<fDriveInertia value="1.0" />
 			<fClutchChangeRateScaleUpShift value="2.3" />
 			<fClutchChangeRateScaleDownShift value="2.3" />
-			<fInitialDriveMaxFlatVel value="245.85" />
-			<fBrakeForce value="0.88" />
-			<fBrakeBiasFront value="0.425" />
+			<fInitialDriveMaxFlatVel value="300.85" />
+			<fBrakeForce value="3.88" />
+			<fBrakeBiasFront value="0.325" />
 			<fHandBrakeForce value="0.7" />
-			<fSteeringLock value="41.0" />
+			<fSteeringLock value="42.6" />
 			<fTractionCurveMax value="2.595" />
 			<fTractionCurveMin value="2.32" />
 			<fTractionCurveLateral value="22.5" />
-			<fTractionSpringDeltaMax value="0.15" />
-			<fLowSpeedTractionLossMult value="1.0" />
+			<fTractionSpringDeltaMax value="0.7" />
+			<fLowSpeedTractionLossMult value="0.0" />
 			<fCamberStiffnesss value="0.0" />
 			<fTractionBiasFront value="0.48" />
 			<fTractionLossMult value="1.0" />
